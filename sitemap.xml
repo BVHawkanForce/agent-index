@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Din indexsida -->
+  <url>
+    <loc>https://bvhawkanforce.github.io/agent-index/</loc>
+  </url>
+
+  <!-- Vero -->
+  <url>
+    <loc>https://www.vero.fi/syventavat-vero-ohjeet/haku/</loc>
+  </url>
+  <url>
+    <loc>https://www.vero.fi/tulorekisteri/yritykset-ja-organisaatiot/yksityiskohtaiset-tulorekisterin-ohjeet</loc>
+  </url>
+  <url>
+    <loc>https://www.vero.fi/henkiloasiakkaat/</loc>
+  </url>
+  <url>
+    <loc>https://www.vero.fi/yritykset-ja-yhteisot/</loc>
+  </url>
+
+  <!-- Kirjanpitolautakunta -->
+  <url>
+    <loc>https://kirjanpitolautakunta.fi/lausunnot-ja-poikkeusluvat</loc>
+  </url>
+  <url>
+    <loc>https://kirjanpitolautakunta.fi/voimassaolevat</loc>
+  </url>
+
+  <!-- Högsta förvaltningsdomstolen (KHO) -->
+  <url>
+    <loc>https://kho.fi/fi/index/paatokset/ennakkopaatokset.html</loc>
+  </url>
+  <url>
+    <loc>https://kho.fi/fi/index/paatokset/muitapaatoksia.html</loc>
+  </url>
+
+  <!-- Finlex -->
+  <url>
+    <loc>https://www.finlex.fi/fi/valtiosopimukset/tuloverosopimukset</loc>
+  </url>
+  <url>
+    <loc>https://www.finlex.fi/fi/viranomaiset/tyoehto/</loc>
+  </url>
+  <url>
+    <loc>https://www.finlex.fi/fi/esitykset/he/</loc>
+  </url>
+
+</urlset>
