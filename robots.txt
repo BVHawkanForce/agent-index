@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://<ditt-github-användarnamn>.github.io/<repo-namn>/sitemap.xml
+Sitemap: https://bvhawkanforce.github.io/agent-index/sitemap.xml
